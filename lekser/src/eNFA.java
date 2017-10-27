@@ -1,0 +1,5 @@
+package lekser;
+
+class eNFA {
+
+}
