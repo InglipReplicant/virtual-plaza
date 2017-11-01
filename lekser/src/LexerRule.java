@@ -1,4 +1,4 @@
-package lab1;
+package lekser;
 
 import java.util.List;
 

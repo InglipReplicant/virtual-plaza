@@ -1,4 +1,4 @@
-package lab1;
+package lekser;
 
 import java.io.IOException;
 import java.io.InputStream;
