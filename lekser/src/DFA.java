@@ -1,5 +1,0 @@
-package lekser;
-
-class DFA {
-    
-}
